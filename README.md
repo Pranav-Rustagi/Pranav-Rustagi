@@ -31,7 +31,7 @@
 
 ---
 
-### **My Profiles**
+### **Profiles**
 [![Github](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav-Rustagi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-rustagi/)
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14046126/pranav-rustagi)
@@ -45,7 +45,7 @@
 
 ---
 
-### **My Github Stats**
+### **Github Stats**
 <p align="center">
     <a href="https://github.com/Pranav-Rustagi">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pranav-Rustagi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />&nbsp;&nbsp;
@@ -59,13 +59,13 @@
 
 ---
 
-### **My pins**
-[![An image of @prustagi_'s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prustagi_)](https://holopin.io/@prustagi_)
+### **Github Trophies**
+[![trophy](https://github-profile-trophy.vercel.app/?username=pranav-rustagi&theme=monokai&margin-w=15&margin-h=15)](https://github.com/pranav-rustagi/github-profile-trophy)
 
 ---
 
-### **My Github Trophies**
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranav-rustagi&theme=monokai&margin-w=15&margin-h=15)](https://github.com/pranav-rustagi/github-profile-trophy)
+### **Holo pins**
+[![An image of @prustagi_'s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prustagi_)](https://holopin.io/@prustagi_)
 
 ---
 
