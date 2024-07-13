@@ -21,13 +21,13 @@
 ---
 
 ### **Languages**
-[![Languages](https://skills.thijs.gg/icons?i=c,cpp,html,css,scss,js,&theme=dark)](https://skills.thijs.gg)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,html,css,scss,js,&theme=dark)](https://skillicons.dev)
 
 ### **Libraries and Framewoks**
-[![Libraries](https://skills.thijs.gg/icons?i=bootstrap,mui,jquery,react,redux,nextjs,nodejs&theme=dark)](https://skills.thijs.gg)
+[![Libraries and Frameworks](https://skillicons.dev/icons?i=bootstrap,mui,jquery,react,redux,nextjs,nodejs)](https://skillicons.dev)
 
 ### **Tools**
-[![Tools](https://skills.thijs.gg/icons?i=vscode,git,github,netlify,azure,firebase,&theme=dark)](https://skills.thijs.gg)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,netlify,azure,firebase)](https://skillicons.dev)
 
 ---
 
