@@ -1,74 +1,126 @@
-<h1 align="center">
+
+<!-- <h1 align="center">
     Hello world
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="25" />
+    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="32" />
     <br/>
     I am Pranav Rustagi
-</h1>
+</h1> -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pranav-Rustagi&label=Profile%20views&color=0e75b6&style=flat" alt="Pranav-Rustagi" /> </p>
+<img src="./images/others/animation2.gif" style="width: 50%;" align="right" />
+<!-- <div align="center"> -->
+<!-- </div> -->
 
-<img src="animation_500_lfejkyz2.gif" style="height: 300px;" align="right" />
 
-### **About me**
-👉🏼 Pursuing **Masters in Computer Applications** from **NIT, Kurukshetra**.
+### Hello World <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="24" />
+# I am **Pranav Rustagi**
 
-👉🏼 **Frontend Web Developer**. Upskilling to become a **Full Stack Web Developer** soon.
+<br/>
+<br/>
+<br/>
 
-👉🏼 Practicing **DSA** and a doing **Competitive Programming**.
+# About me
 
-👉🏼 Getting started with **Open Source**.
+👉🏼 Postgraduate in <b>Master of Computer Applications</b> from <b>NIT Kurukshetra</b>
 
----
+👉🏼 <b>Software Development Engineer</b> intern at <b>Genpact</b> exploring <b>Generative AI</b>
 
-### **Languages**
-[![Languages](https://skillicons.dev/icons?i=c,cpp,html,css,scss,js,&theme=dark)](https://skillicons.dev)
 
-### **Libraries and Framewoks**
-[![Libraries and Frameworks](https://skillicons.dev/icons?i=bootstrap,mui,jquery,react,redux,nextjs,nodejs)](https://skillicons.dev)
+👉🏼 Experienced <b>Web Developer</b> specializing in <b>frontend</b> technologies
+        
+👉🏼 <b>Competitive Programming</b> enthusiast
 
-### **Tools**
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,netlify,azure,firebase)](https://skillicons.dev)
+<br/>
+<br/>
+<br/>
 
----
+# Skillset
 
-### **Profiles**
-[![Github](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav-Rustagi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-rustagi/)
-[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14046126/pranav-rustagi)
+### Web Development
+<img src="https://skillicons.dev/icons?i=html" title="HTML" />&nbsp;
+<img src="https://skillicons.dev/icons?i=css" title="CSS" />&nbsp;
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />&nbsp;
+<img src="./images/icons/chakraui.svg" height="50" title="Chakra UI" />&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mui&theme=light" title="Material UI" />&nbsp;
+<img src="https://skillicons.dev/icons?i=scss" title="SCSS" />&nbsp;
+<img src="https://skillicons.dev/icons?i=jquery" title="jQuery" />&nbsp;
+<img src="https://skillicons.dev/icons?i=react" title="React.js" />&nbsp;
+<img src="https://skillicons.dev/icons?i=redux" title="Redux" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />&nbsp;
+<img src="https://skillicons.dev/icons?i=expressjs&theme=light" title="Express.js" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=npm" title="NPM" />&nbsp;
+
+
+### Machine Learning
+<img src="https://skillicons.dev/icons?i=python" title="Python" />
+&nbsp;&nbsp;
+<img src="./images/icons/pandas.svg" height="50" title="Pandas" />
+&nbsp;&nbsp;
+<img src="./images/icons/numpy.svg" height="50" title="Numpy" />
+&nbsp;&nbsp;
+<img src="./images/icons/matplotlib.svg" height="48" valign="top" title="Matplotlib" />
+&nbsp;&nbsp;
+<img src="./images/icons/seaborn.svg" height="48" valign="top" title="Seaborn" />
+&nbsp;&nbsp;
+<img src="./images/icons/sklearn.svg" height="56" valign="bottom" title="Scikit learn" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flask&theme=light" title="Flask" />&nbsp;
+<img src="./images/icons/jupyter.svg" height="48" title="Jupyter" />
+
+
+### Other tools and technologies
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />&nbsp;
+<img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
+<img src="https://skillicons.dev/icons?i=github" title="Github" />&nbsp;
+<img src="https://skillicons.dev/icons?i=vercel&theme=light" title="Vercel" />&nbsp;
+<img src="https://skillicons.dev/icons?i=netlify" title="Netlify" />&nbsp;
+<img src="https://skillicons.dev/icons?i=heroku" title="Heroku" />&nbsp;
+
+
+### Problem Solving and competitive programming
+<img src="https://skillicons.dev/icons?i=c,cpp,js" />
+
+<br/>
+<br/>
+<br/>
+
+# Profiles
+
+### Socials
+[![Github](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav-Rustagi)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-rustagi/)&nbsp;&nbsp;
+[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14046126/pranav-rustagi)&nbsp;&nbsp;
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/pranavrustagi)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/prustagi_/)
-[![Geeksforgeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/pranav001100)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pranav_rustagi)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pranav_rustagi)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/p_rustagi)
+### Competitive Programming
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/prustagi_/)&nbsp;&nbsp;
+[![Geeksforgeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/pranav001100)&nbsp;&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pranav_rustagi)&nbsp;&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/p_rustagi)&nbsp;&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pranav_rustagi)&nbsp;&nbsp;
 
----
+<br/>
+<br/>
+<br/>
 
-### **Github Stats**
-<p align="center">
-    <a href="https://github.com/Pranav-Rustagi">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pranav-Rustagi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />&nbsp;&nbsp;
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Rustagi&layout=compact&langs_count=4&theme=dark" />
-    </a>
+# Developer Statistics
+
+<div align="left">
+    <img src="https://stats.quira.sh/Pranav-Rustagi/github?theme=light" />
+    &nbsp;&nbsp;
+    <img src="https://stats.quira.sh/Pranav-Rustagi/stack-overflow?theme=light" />
     <br/>
-    <a href="https://github.com/Pranav-Rustagi">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Rustagi&theme=dark&hide_border=false"/>
-    </a>
-</p>
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Pranav-Rustagi&theme=dark&background=75%2C101010%2C222222" alt="GitHub Streak" height="200" />&nbsp;&nbsp;
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Rustagi&show_icons=true&bg_color=75,101010,222222&include_all_commits=true&count_private=true&text_color=bbb" height="200" />&nbsp;&nbsp; -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Rustagi&size_weight=0.4&count_weight=0.6&hide=java&langs_count=8&bg_color=75,101010,222222&text_color=bbb&hide_progress=true" height="200" />
+</div>
 
----
 
-### **Github Trophies**
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranav-rustagi&theme=monokai&margin-w=15&margin-h=15)](https://github.com/pranav-rustagi/github-profile-trophy)
+<!-- # Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=pranav-rustagi&theme=monokai&margin-w=15&margin-h=15)](https://github.com/pranav-rustagi/github-profile-trophy) -->
 
----
-
-### **Holo pins**
-[![An image of @prustagi_'s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prustagi_)](https://holopin.io/@prustagi_)
-
----
-
-### **Contact**
-
-[![Gmail](https://img.shields.io/badge/Gmail-f22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranav001100@gmail.com)
+<!-- ### **Holo pins**
+[![An image of @prustagi_'s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prustagi_)](https://holopin.io/@prustagi_) -->
