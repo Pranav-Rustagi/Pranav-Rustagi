@@ -23,7 +23,6 @@
 👉🏼 <b>Competitive Programming</b> enthusiast
 
 <br/>
-<br/>
 
 # Skillset
 
@@ -46,7 +45,7 @@
 
 
 ### Machine Learning
-<img src="https://skillicons.dev/icons?i=python" title="Python" />&nbsp;&nbsp;<img src="./images/icons/pandas.svg" height="50" title="Pandas" />&nbsp;&nbsp;<img src="./images/icons/numpy.svg" height="50" title="Numpy" />&nbsp;&nbsp;<img src="./images/icons/matplotlib.svg" height="48" valign="top" title="Matplotlib" />&nbsp;&nbsp;<img src="./images/icons/seaborn.svg" height="48" valign="top" title="Seaborn" />&nbsp;&nbsp;<img src="./images/icons/sklearn.svg" height="56" valign="bottom" title="Scikit learn" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=flask&theme=light" title="Flask" />&nbsp;<img src="./images/icons/jupyter.svg" height="48" title="Jupyter" />
+<img src="https://skillicons.dev/icons?i=python" title="Python" />&nbsp;&nbsp;<img src="./images/icons/pandas.svg" height="50" title="Pandas" />&nbsp;&nbsp;<img src="./images/icons/numpy.svg" height="50" title="Numpy" />&nbsp;&nbsp;<img src="./images/icons/matplotlib.svg" height="48" valign="top" title="Matplotlib" />&nbsp;&nbsp;<img src="./images/icons/seaborn.svg" height="48" valign="top" title="Seaborn" />&nbsp;&nbsp;<img src="./images/icons/sklearn.svg" height="56" valign="bottom" title="Scikit learn" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=flask&theme=light" title="Flask" />&nbsp;&nbsp;<img src="./images/icons/jupyter.svg" height="48" title="Jupyter" />
 
 
 ### Other tools and technologies
@@ -59,9 +58,10 @@
 
 
 ### Problem Solving and competitive programming
-<img src="https://skillicons.dev/icons?i=c,cpp,js" />
+<img src="https://skillicons.dev/icons?i=c" title="C" />&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" title="CPP" />&nbsp;
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
 
-<br/>
 <br/>
 
 # Profiles
@@ -79,7 +79,6 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/p_rustagi)&nbsp;&nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pranav_rustagi)&nbsp;&nbsp;
 
-<br/>
 <br/>
 
 # Developer Statistics
