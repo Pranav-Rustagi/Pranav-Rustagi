@@ -89,9 +89,9 @@
     <img src="https://stats.quira.sh/Pranav-Rustagi/stack-overflow?theme=light" />
     <br/>
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Pranav-Rustagi&theme=dark&background=75%2C101010%2C222222" alt="GitHub Streak" height="200" />&nbsp;&nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Pranav-Rustagi&theme=dark&background=75%2C101010%2C222222" alt="GitHub Streak" height="175" />&nbsp;&nbsp;
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Rustagi&show_icons=true&bg_color=75,101010,222222&include_all_commits=true&count_private=true&text_color=bbb" height="200" />&nbsp;&nbsp; -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Rustagi&size_weight=0.4&count_weight=0.6&hide=java&langs_count=8&bg_color=75,101010,222222&text_color=bbb&hide_progress=true" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Rustagi&size_weight=0.4&count_weight=0.6&hide=java&langs_count=8&bg_color=75,101010,222222&text_color=bbb&hide_progress=true" height="175" />
 </div>
 
 
