@@ -15,12 +15,11 @@
 
 👉🏼 Postgraduate in <b>Master of Computer Applications</b> from <b>NIT Kurukshetra</b>
 
-👉🏼 <b>Software Development Engineer</b> intern at <b>Genpact</b> exploring <b>Generative AI</b>
+👉🏼 <b>Software Engineer</b> at <b>Genpact</b> working with Big Data
 
-
-👉🏼 Experienced <b>Web Developer</b> specializing in <b>frontend</b> technologies
+👉🏼 Experienced <b>Full-Stack Developer</b> with excellence in <b>frontend</b> technologies
         
-👉🏼 <b>Competitive Programming</b> enthusiast
+👉🏼 <b>Competitive Programmer</b>
 
 <br/>
 
