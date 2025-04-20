@@ -1,6 +1,6 @@
 <h1 align="center">
-    Hello world
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="32" />
+    Hello world &nbsp;
+    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="32" width="32" />
     <br/>
     I am <b>Pranav Rustagi</b>
 </h1>
