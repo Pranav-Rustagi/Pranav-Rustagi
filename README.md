@@ -337,30 +337,100 @@
 
 <h3>Competitive programming profiles</h3>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/prustagi_/)&nbsp;&nbsp;
-[![Geeksforgeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/pranav001100)&nbsp;&nbsp;
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pranav_rustagi)&nbsp;&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/p_rustagi)&nbsp;&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pranav_rustagi)&nbsp;&nbsp;
+<p>
+    <a href="https://leetcode.com/prustagi_/" target="_blank">
+        <img 
+            src="./icons/leetcode.png" 
+            alt="Leetcode"
+            title="Leetcode" 
+            style="height:48px; width:48px;" 
+        />
+    </a>
+    &nbsp;
+    <a href="https://auth.geeksforgeeks.org/user/pranav001100" target="_blank">
+        <img 
+            src="./icons/gfg.png" 
+            alt="Geeksforgeeks"
+            title="Geeksforgeeks" 
+            style="height:48px; width:48px;" 
+        />
+    </a>
+    &nbsp;
+    <a href="https://codeforces.com/profile/pranav_rustagi" target="_blank">
+        <img 
+            src="./icons/codeforces.png" 
+            alt="Codeforces"
+            title="Codeforces" 
+            style="height:48px; width:48px;" 
+        />
+    </a>
+    &nbsp;
+    <a href="https://www.codechef.com/users/p_rustagi" target="_blank">
+        <img 
+            src="./icons/codechef.png" 
+            alt="CodeChef"
+            title="CodeChef" 
+            style="height:48px; width:48px;" 
+        />
+    </a>
+    &nbsp;
+    <a href="https://www.hackerrank.com/pranav_rustagi" target="_blank">
+        <img 
+            src="./icons/hackerrank.png" 
+            alt="HackerRank"
+            title="HackerRank" 
+            style="height:48px; width:48px;" 
+        />
+    </a>
+</p>
 
 <br/>
 
-<!-- # Developer Statistics -->
+<h1 align="left">
+    📈 Developer Statistics
+</h1>
 
-<!-- <div align="left">
-    <img src="https://stats.quira.sh/Pranav-Rustagi/github?theme=light" />
-    &nbsp;&nbsp;
-    <img src="https://stats.quira.sh/Pranav-Rustagi/stack-overflow?theme=light" />
+<h3>GitHub Summary</h3>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-rustagi&theme=dark&show_icons=true&title_color=fff&icon_color=fb8c00&show=prs_merged,prs_merged_percentage&ring_color=fb8c00&rank_icon=percentile)
+
+<h3>
+    GitHub Streak Stats
+</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pranav-rustagi&theme=dark)](https://git.io/streak-stats)
+
+<h3>
+    GitHub Trophies
+</h3>
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=pranav-rustagi&theme=dark_lover&margin-w=15&margin-h=15&column=5)
+
+
+<br/>
+
+---
+
+<br/>
+<h3>
+    Before you leave, here's a joke for you
+</h3>
+
+<p>
+    Why do programmers always mix up Christmas and Halloween?
     <br/>
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Pranav-Rustagi&theme=dark&background=75%2C101010%2C222222" alt="GitHub Streak" height="175" />&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Rustagi&show_icons=true&bg_color=75,101010,222222&include_all_commits=true&count_private=true&text_color=bbb" height="200" />&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Rustagi&size_weight=0.4&count_weight=0.6&hide=java&langs_count=8&bg_color=75,101010,222222&text_color=bbb&hide_progress=true" height="175" />
-</div> -->
+    Because Oct 31 == Dec 25.
+</p>
 
+<!-- <br /> -->
+<!-- <p>
+    “Code is like humor. When you have to explain it, it’s bad.”
+    - Cory House
+</p> -->
 
-<!-- # Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranav-rustagi&theme=monokai&margin-w=15&margin-h=15)](https://github.com/pranav-rustagi/github-profile-trophy) -->
-
-<!-- ### **Holo pins**
-[![An image of @prustagi_'s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prustagi_)](https://holopin.io/@prustagi_) -->
+<br/>
+<h4>
+    Thanks for visiting! ✨
+    <br/><br/>
+    Happy building 🚀
+</h4>
