@@ -20,15 +20,15 @@
 <br/>
 
 <h1 align="left">
-    👋🏻 About me
+    👨🏻‍💻 About me
 </h1>
 
 
-💼&nbsp; **Databricks-Certified Software Engineer** migrating big data from legacy systems to Databricks at **Genpact** 
+💼&nbsp; **Software Engineer** at **Genpact** building automation tools and modernizing legacy systems with Databricks
 
-💻&nbsp; Experienced **Full-Stack MERN Developer** with live, real-world web apps being **activey used by businesses**
+💻&nbsp; **Full-Stack MERN Developer** with experience building web apps and websites through internships and freelance work
 
-🎓&nbsp; Postgraduate with a **Master of Computer Applications** from **NIT Kurukshetra**
+🎓&nbsp; **Postgraduate** with a **Master of Computer Applications** from NIT Kurukshetra
 
 🚀&nbsp; Passionate about **solving complex problems** and **building impactful products** that drive real value for businesses and people
 
@@ -203,70 +203,7 @@
     />
 </p>
 
-
-
-<h3>📊 Data Engineering</h3>
-<p>
-    <img 
-        src="https://skillicons.dev/icons?i=python&theme=light" 
-        alt="Python" 
-        title="Python" 
-    />
-    &nbsp;
-    <img 
-        src="./icons/spark.png" 
-        title="Apache Spark" 
-        alt="Apache Spark" 
-        style="height:48px; width:48px;" 
-    />
-    &nbsp;
-    <img 
-        src="./icons/airflow.png" 
-        title="Apache Airflow" 
-        alt="Apache Airflow" 
-        style="height:48px; width:48px;" 
-    />
-    &nbsp;
-    <img 
-        src="./icons/databricks.png" 
-        title="Databricks" 
-        alt="Databricks" 
-        style="height:48px; width:48px;" 
-    />
-    &nbsp;
-    <img 
-        src="https://skillicons.dev/icons?i=postgres&theme=light" 
-        title="PostgreSQL" 
-        alt="PostgreSQL" 
-    />
-    &nbsp;
-    <img 
-        src="https://skillicons.dev/icons?i=mysql&theme=light" 
-        title="MySQL" 
-        alt="MySQL" 
-    />
-    &nbsp;
-    <img 
-        src="./icons/pandas.png" 
-        title="Pandas" 
-        alt="Pandas" 
-        style="height:48px; width:48px;" 
-    />
-    &nbsp;
-    <img 
-        src="./icons/talend.png" 
-        title="Talend" 
-        alt="Talend" 
-        style="height:48px; width:48px;" 
-    />
-    &nbsp;
-    <img 
-        src="./icons/dbeaver.png" 
-        title="DBeaver" 
-        alt="DBeaver" 
-        style="height:48px; width:48px;" 
-    />
-</p>
+<br/>
 
 <h3>🏅 Problem Solving / Competitive Programming</h3>
 
