@@ -24,7 +24,7 @@
 </h1>
 
 
-💼&nbsp; **Software Engineer** at **Genpact** building automation tools and modernizing legacy systems with Databricks
+💼&nbsp; As a **Software Engineer** at **Genpact**, built automation tools to enhance throughputs and dashboards to enable reporting
 
 💻&nbsp; **Full-Stack MERN Developer** with experience building web apps and websites through internships and freelance work
 
